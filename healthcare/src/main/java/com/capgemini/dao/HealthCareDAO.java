@@ -22,7 +22,7 @@ Scanner scan = new Scanner(System.in);
 public static List<String> list = new ArrayList<String>();
 
 public static void addValues() {
-	 list.add("Harsh");
+	 list.add("bhargav");
 	 list.add("Rishita");
 	 list.add("Rohan");
 	 list.add("Sumani");
